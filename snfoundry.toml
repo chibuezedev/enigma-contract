@@ -1,0 +1,11 @@
+[sncast.argentx]
+url = "https://starknet-sepolia.g.alchemy.com/starknet/version/rpc/v0_7/_MCSQNMlu-QuM8aPOSC3_ybW9U2gfu2J"
+account = "argentx"
+
+[sncast.argentx2]
+account = "argentx2"
+accounts-file = "/home/chibueze/.starknet_accounts/starknet_open_zeppelin_accounts.json"
+url = "https://starknet-sepolia.g.alchemy.com/starknet/version/rpc/v0_10/_MCSQNMlu-QuM8aPOSC3_ybW9U2gfu2J"
+
+[sncast.default]
+account = "braavos1"

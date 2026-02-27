@@ -1,0 +1,18 @@
+DEPLOY.md
+
+# Scarb build artifacts
+target/
+
+# Node
+node_modules/
+.env
+
+# Dojo binaries (not part of project)
+dojo-language-server
+sozo
+torii
+dojo.tar.gz
+katana.tar.gz
+
+# Logs
+*.log

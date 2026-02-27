@@ -1,0 +1,19 @@
+{
+  "name": "engima",
+  "version": "1.0.0",
+  "type": "module",
+  "author": {
+    "name": "Paul Chibueze",
+    "email": "chibuezedeveloper@gmail.com"
+  },
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.6.1",
+    "express": "^4.22.1",
+    "starknet": "^7.6.4"
+  }
+}
